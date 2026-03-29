@@ -1,0 +1,17 @@
+# Standard OS junk
+.DS_Store
+Thumbs.db
+
+# IDE specific files (if you edit locally)
+.idea/
+.vscode/
+*.swp
+
+# Temporary and backup files
+*.bak
+*.tmp
+*~
+
+# Ensure we don't accidentally ignore our data
+!/lyrics/
+!README.md
